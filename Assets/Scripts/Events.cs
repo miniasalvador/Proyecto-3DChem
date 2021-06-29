@@ -12,7 +12,7 @@ public class Events : MonoBehaviour
     
     public void OnMouseDown()
     {
-        scalarPanel.DOScale(0.007f,timeAnimation);
+        scalarPanel.DOScale(0.0055f,timeAnimation);
         contentTransform.localPosition = new Vector2 (0,0); 
     
     }

@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TablaP.unity
     guid: eae760b6f6805714b947ea343797a8fd
+  - enabled: 1
+    path: Assets/Scenes/TP1.unity
+    guid: 48d8402e990e5564fb2e1fa8ebc5db77
+  - enabled: 1
+    path: Assets/Scenes/TP2.unity
+    guid: 1f566b94249701a4ba7a9f56a6d881d8
+  - enabled: 1
+    path: Assets/Scenes/Compuestos.unity
+    guid: 259571dfbf061ca449173b35e5f269ee
   m_configObjects: {}
